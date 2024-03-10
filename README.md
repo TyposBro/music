@@ -2,12 +2,12 @@
 This repo was created to make easier simulate audio consuming through http.
 The URL should be in these follow format:
 
-https://github.com/typosbro/Music/raw/master/{filename.ext}
+https://typosbro.github.io/music/{foldername}/{filename.ext}
 
 Sample using file `Mimi-SorrowChat.flac`:
 
-https://github.com/typosbro/music/raw/main/flac/Mimi-SorrowChat.flac
+https://typosbro.github.io/music/flac/Mimi-SorrowChat.flac
 
 Sample using file `Mimi-SorrowChat.mp3`:
 
-https://github.com/typosbro/music/raw/main/mp3/Mimi-SorrowChat.mp3
+https://typosbro.github.io/music/mp3/Mimi-SorrowChat.mp3
